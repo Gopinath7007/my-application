@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## GIT ignore
    
    # What is GIT Ignore ,
-   # How to use it,
+   # How to use it, 
